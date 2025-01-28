@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint:html": "htmlhint src/**/*.html",
-    "lint:css": "stylelint styles/**/*.css",
+    "lint:css": "stylelint style/**/*.css",
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
